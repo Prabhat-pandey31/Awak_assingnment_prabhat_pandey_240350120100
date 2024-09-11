@@ -12,7 +12,7 @@ This is the SuBmission of Awak Assingment
 
 
 
-Demo Login Link - [https://prabhat-pandey31.github.io/Prabaht_Pandey_Cdac_Awak_Assingment/](https://prabhat-pandey31.github.io/Awak_assingnment_prabhat_pandey_240350120100/)
+Demo Login Link - https://prabhat-pandey31.github.io/Awak_assingnment_prabhat_pandey_240350120100/
 
 
 
