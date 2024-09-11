@@ -32,7 +32,7 @@ Demo Login Link - https://prabhat-pandey31.github.io/Awak_assingnment_prabhat_pa
  - First Install git on your local pc . Or you already have Git installed in your pc then,
  - Make a New Folder in your Pc and Left Click It and click git bash, then it will open Git Bash and then,
  -  Copy the link of that repository from Green Button Written Code or,
- - Directly paste that command on your git command interface  => git clone https://github.com/Prabhat-pandey31/Awak_Assignment_Prabhat_Pandey_Cdac_240350120100.git .
+ - Directly paste that command on your git command interface  => git clone https://github.com/Prabhat-pandey31/Awak_assingnment_prabhat_pandey_240350120100.git
  - it will fetch all the files from the repository.
  - then you can run that project by clicking index.html files
  - Or if want to check code then you can open that folder in IDE,like Visual studio Code etc.
