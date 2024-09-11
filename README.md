@@ -32,9 +32,7 @@ Demo Login Link - https://prabhat-pandey31.github.io/Awak_assingnment_prabhat_pa
 - First, install Git on your local PC. If you already have Git installed, then:
 - Create a new folder on your PC. Left-click it and select "Git Bash Here" to open Git Bash.
 - Copy the link of the repository from the green button labeled "Code," or:
-- Directly paste this command into your Git command interface:
-- bash
-- Copy code
+- Directly paste this command into your Git bash command interface:
 - git clone https://github.com/Prabhat-pandey31/Awak_assingnment_prabhat_pandey_240350120100.git
 - This will fetch all the files from the repository.
 - You can then run the project by opening the index.html file.
