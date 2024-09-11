@@ -1,11 +1,10 @@
 # Awak_assingnment_prabhat_pandey_240350120100
-# Prabaht_Pandey_Cdac_Awak_Assingment
 
 
 This is the SuBmission of Awak Assingment
 
-# Demo Credentials:   
-#   Without This You Want be able to login....
+ Demo Credentials:   
+   Without This You Want be able to login....
        
 # =>    Email: prabhatpandey3105@gmail.com   
 
